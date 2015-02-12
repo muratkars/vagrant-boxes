@@ -1,0 +1,15 @@
+﻿Installing devstack stable/icehouse:
+
+1. download and install virtualbox 64-bit
+
+2. download and install vagrant 64-bit -- vagrant is not necessary for devstack installation, but saves time needed to install the base OS under openstack.
+
+3. run "vagrant box add ubuntu/trusty64"
+
+5. mkdir devstack-icehouse
+
+6. cd devstack-icehouse
+
+7. unzip my file
+ 
+8. Run "vagrant up"
